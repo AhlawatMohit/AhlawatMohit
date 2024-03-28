@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohitahlawat223@gmail.com**
 
-- 📄 Know about my experiences [https://ahlawatmohit.github.io/PortfolioNew/](https://ahlawatmohit.github.io/PortfolioNew/)
+- 📄 Know about my experiences [https://ahlawatmohit.github.io/PortfolioNew/](https://nextjs-portfolio-animation.vercel.app)
 
 - ⚡ Fun fact **Intrested In Learning New Technologies 💻**
 
